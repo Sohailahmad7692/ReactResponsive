@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cda34582.chunk.css",
+    "main.js": "/static/js/main.5c24404c.chunk.js",
+    "main.js.map": "/static/js/main.5c24404c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9e0f1a81.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9e0f1a81.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.fc03a493.chunk.js": "/static/js/2.fc03a493.chunk.js",
+    "static/js/2.fc03a493.chunk.js.map": "/static/js/2.fc03a493.chunk.js.map",
+    "static/js/3.860f7bab.chunk.js": "/static/js/3.860f7bab.chunk.js",
+    "static/js/3.860f7bab.chunk.js.map": "/static/js/3.860f7bab.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.cda34582.chunk.css.map": "/static/css/main.cda34582.chunk.css.map",
+    "static/js/2.fc03a493.chunk.js.LICENSE.txt": "/static/js/2.fc03a493.chunk.js.LICENSE.txt",
+    "static/media/brownMunde.f949c287.JPG": "/static/media/brownMunde.f949c287.JPG",
+    "static/media/myname.e9c608e8.JPG": "/static/media/myname.e9c608e8.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e0f1a81.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.fc03a493.chunk.js",
+    "static/css/main.cda34582.chunk.css",
+    "static/js/main.5c24404c.chunk.js"
+  ]
+}
